@@ -1,4 +1,4 @@
-##  Boas vindas ao meu perfil :ro
+##  Boas vindas ao meu perfil 😎
 
 
 **bagual01/bagual01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
